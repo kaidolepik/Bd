@@ -1,0 +1,10 @@
+---
+title: "Sokid"
+output:
+  html_document:
+    css: style.css
+---
+
+```{r fig_socks, echo = FALSE, fig.align = "center", fig.cap = "", out.width = "70%"}
+knitr::include_graphics("images/socks.jpg")
+```
