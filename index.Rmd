@@ -5,6 +5,6 @@ output:
     css: style.css
 ---
 
-```{r fig_socks, echo = FALSE, fig.align = "center", fig.cap = "", out.width = "70%"}
+```{r fig_socks, echo = FALSE, fig.align = "center", fig.cap = "", out.width = "50%"}
 knitr::include_graphics("images/socks.jpg")
 ```
