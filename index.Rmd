@@ -1,10 +1,11 @@
 ---
-title: "Sokid"
 output:
   html_document:
     css: style.css
 ---
 
+#
+
 ```{r fig_socks, echo = FALSE, fig.align = "center", fig.cap = "", out.width = "50%"}
-knitr::include_graphics("images/Midsummer_new.jpg")
+knitr::include_graphics("images/img.png")
 ```
