@@ -7,5 +7,5 @@ output:
 #
 
 ```{r fig_socks, echo = FALSE, fig.align = "center", fig.cap = "", out.width = "50%"}
-knitr::include_graphics("images/img.png")
+knitr::include_graphics("images/img2.png")
 ```
